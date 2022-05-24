@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 149 151" width="149" height="151">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.2;fill: #95292b } 
+		.shp1 { opacity: 0.502;fill: #95292b } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="shp0" d="M149 62.3L20.92 -15.91L-54 29.93L73.77 108.11L149 62.3Z" />
+	<path id="Layer" fill-rule="evenodd" class="shp1" d="M149 62.3L73.77 108.11L73.77 285.07L149 239L149 62.3Z" />
+</svg>
